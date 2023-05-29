@@ -63,3 +63,7 @@
      ```
      Authorization: <token>
      ```
+
+## Спецификация API микросервиса заказов
+
+Можно посмотреть в колекции Postman [здесь](./postman/Orders.postman_collection.json).
